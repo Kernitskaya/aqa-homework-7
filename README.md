@@ -1,4 +1,4 @@
-Перед запуском контейнера с БД необходимо устаноить Docke по инструкции:
+Перед запуском контейнера с БД необходимо установить Docker по инструкции:
 https://github.com/netology-code/aqa-homeworks/blob/aqa4/docker/installation.md
 
 Запуск контейнера и проверка БД: 
